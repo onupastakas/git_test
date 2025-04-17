@@ -1,0 +1,4 @@
+hello
+Hello Odin!
+Door is open
+And now it's closed
